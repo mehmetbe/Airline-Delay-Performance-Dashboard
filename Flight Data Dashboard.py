@@ -90,14 +90,14 @@ app.layout = html.Div(children=[
                                             html.H2('Report Type:', style={'margin-right': '2em'}),
                                             ]
                                         ),
-                                        # Enter your code below. Make sure you have correct formatting.
+                                        # Add Dropdown.
                                         dcc.Dropdown(id='input-type', 
-                   options=[
-                           {'label': 'Yearly Airline Performance Report', 'value': 'OPT1'},
-                           {'label': 'Yearly Airline Delay Report', 'value': 'OPT2'}
-                           ],
-                  placeholder='Select a report type',
-                  style={'width': '80%', 'padding': '3px', 'font-size': '20px', 'text-align-last': 'center'}),
+                                        options=[
+                                        {'label': 'Yearly Airline Performance Report', 'value': 'OPT1'},
+                                        {'label': 'Yearly Airline Delay Report', 'value': 'OPT2'}
+                                        ],
+                                        placeholder='Select a report type',
+                                        style={'width': '80%', 'padding': '3px', 'font-size': '20px', 'text-align-last': 'center'}),
                                     # Place them next to each other using the division style
                                     ], style={'display':'flex'}),
                                      
