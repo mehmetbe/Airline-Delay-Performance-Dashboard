@@ -9,35 +9,63 @@ Each airline is represented by their IATA code in the graphs (e.g. American Airl
 
 Selecting this option and a year will populate 5 graphs to the dashboard. In the screenshots below, the year 2005 was selected for demonstration purposes.
 
-### Flight count by airline to destination state
+### Graph 1- Flight count by airline to destination state
 
 This is a treemap chart that gives number of flights flying to each state from each reporting airline.
 
 ![newplot](https://user-images.githubusercontent.com/112036107/211930828-a2b2af79-aed8-4654-9f7d-fb9125616692.png)
 
-### % of diverted flights by reporting airline
+### Graph 2- Percentage of diverted flights by reporting airline
 
 This is a bar chart that gives the percentage of diverted airport landings per reporting airline.
 
-![newplot (1)](https://user-images.githubusercontent.com/112036107/211933223-d0ed606c-f093-43b0-a75f-4e8ac6836e68.png)
+![newplot (5)](https://user-images.githubusercontent.com/112036107/211937484-7a394cb5-205e-4a25-9c3f-e20e444ec801.png)
 
-### Number of flights from origin state
+### Graph 3- Number of flights from origin state
 
 This is a choropleth map that shows the number of flights flying from each state.
 
 ![newplot (2)](https://user-images.githubusercontent.com/112036107/211933878-5a4454de-4775-4c37-8578-9d48009666a3.png)
 
-### Monthly flight cancellation
+### Graph 4- Monthly flight cancellation
 
 This is a bar chart showing number of flights under different cancellation categories.
 
 ![newplot (3)](https://user-images.githubusercontent.com/112036107/211934591-b90322ca-3c36-4571-bfc7-5179f7bb2cd8.png)
 
-### Average monthly flight time (minutes) by airline
+### Graph 5-Average monthly flight time (minutes) by airline
 
 This is a line chart showing Average flight time by reporting airline.
 
 ![newplot (4)](https://user-images.githubusercontent.com/112036107/211934785-03c42c21-ed04-4391-ae32-20c85444ac30.png)
+
+
+## Yearly Airline Delay Report
+
+Selecting this option and a year will populate 5 line charts to the dashboard. In the screenshots below, the year 2012 was selected for demonstration purposes. 
+
+### Line Chart 1- Monthly average carrier delay time (minutes) by reporting airline 
+
+![newplot (6)](https://user-images.githubusercontent.com/112036107/211939669-3b4b683f-e138-4b9d-8d95-5a29811ca1c8.png)
+
+
+### Line Chart 2- Monthly average weather delay time (minutes) by reporting airline
+
+![newplot (7)](https://user-images.githubusercontent.com/112036107/211939765-2a3d388d-5cf4-4a92-9fa5-b22eef1e59f5.png)
+
+### Line Chart 3- Monthly average NAS (National Airline Security) delay time (minutes) by reporting airline
+
+![newplot (8)](https://user-images.githubusercontent.com/112036107/211939854-75835a20-0d89-4f4b-800f-ff035cd12553.png)
+
+### Line Chart 4- Monthly average security delay time (minutes) by reporting airline
+
+![newplot (9)](https://user-images.githubusercontent.com/112036107/211939922-fd022934-2092-41c1-b903-c204f80f6dc0.png)
+
+### Line Chart 5- Monthly average late aircraft delay time (minutes) by reporting airline
+
+![newplot (10)](https://user-images.githubusercontent.com/112036107/211939999-ee95189a-4950-402e-9944-6d9681dce4d1.png)
+
+
 
 
 
