@@ -7,8 +7,7 @@ After launching the dashboard, there are two dropdown menus where you can choose
 
 Selecting this option and a year populates 5 graphs to the dashboard:
 
-###
-Flight Count by airline to destination state
+### Flight Count by airline to destination state
 
 
 ![newplot](https://user-images.githubusercontent.com/112036107/211930828-a2b2af79-aed8-4654-9f7d-fb9125616692.png)
