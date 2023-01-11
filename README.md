@@ -9,7 +9,7 @@ Each airline is represented by their IATA code in the graphs(e.g. American Airli
 
 Selecting this option and a year will populate 5 graphs to the dashboard. In the screenshots below, the year 2005 was selected for demonstration purposes.
 
-### Flight Count by airline to destination state
+### Flight count by airline to destination state
 
 This is a treemap chart that gives number of flights flying to each state from each reporting airline.
 
