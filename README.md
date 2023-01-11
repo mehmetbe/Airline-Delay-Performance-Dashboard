@@ -3,7 +3,7 @@ This code creates a dashboard that returns various graphs and charts visualizing
 
 In the dashboard, there are two dropdown menus where you can choose the report type and the year. You would first choose one of the two report type options, namely Yearly Airline Performance Report and Yearly Airline Delay Report; and then select a year to get the charts for the given year.
 
-Each airline is represented by their IATA code in the graphs(e.g. American Airlines=AA).
+Each airline is represented by their IATA code in the graphs (e.g. American Airlines=AA).
 
 ## Yearly Airline Performance Report
 
